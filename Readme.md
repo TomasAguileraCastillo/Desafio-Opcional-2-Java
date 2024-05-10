@@ -1,5 +1,5 @@
 
-# Desafío 2 
+# Desafío 2 Opcional Java
 
 ---
 1.Ejercicio - While por do while
